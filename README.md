@@ -1,2 +1,2 @@
 # ng-web-component
-A reusable web component in Angular
+A web component having capability of rendering main toolbar supporting account actions
